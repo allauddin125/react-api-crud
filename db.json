@@ -1,0 +1,67 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "age": 25,
+      "phone": "123-456-7890",
+      "address": "123 Elm Street, Springfield"
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "age": 30,
+      "phone": "987-654-3210",
+      "address": "456 Oak Avenue, Shelbyville"
+    },
+    {
+      "id": "3",
+      "name": "Charlie Brown",
+      "age": 22,
+      "phone": "555-123-4567",
+      "address": "789 Maple Lane, Capital City"
+    },
+    {
+      "id": "4",
+      "name": "Diana Prince",
+      "age": 28,
+      "phone": "444-567-8901",
+      "address": "321 Pine Road, Metropolis"
+    },
+    {
+      "id": "5",
+      "name": "Eve Adams",
+      "age": 35,
+      "phone": "333-987-6543",
+      "address": "654 Birch Blvd, Gotham"
+    },
+    {
+      "id": "5f0f",
+      "name": "Abida",
+      "age": "74",
+      "phone": "963214785",
+      "address": "poiuytrewq"
+    },
+    {
+      "id": "569b",
+      "name": "Ayas",
+      "age": "25",
+      "phone": "369852147",
+      "address": "zxcvbnkiuytrdsaqwerty90pkjhgfdaxcvbn"
+    },
+    {
+      "id": "0d6e",
+      "name": "asdfgh",
+      "age": "654",
+      "phone": "9621",
+      "address": "kjhgfdrtyu"
+    },
+    {
+      "id": "b9e9",
+      "name": "uhu",
+      "age": "8999",
+      "phone": "7441",
+      "address": "dfyhbnj"
+    }
+  ]
+}
